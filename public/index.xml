@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Addison Horton</title>
+    <link>//localhost:1314/</link>
+    <description>Recent content in Home on Addison Horton</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1314/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>//localhost:1314/cv/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/cv/</guid>
+      <description>&lt;div class=&#34;cv-header&#34;&gt;&#xA;  &lt;h2 class=&#34;cv-title&#34;&gt;CURRICULUM VITAE&lt;/h2&gt;&#xA;  &lt;h1&gt;ADDISON HORTON&lt;/h1&gt;&#xA;  &lt;div class=&#34;cv-contact&#34;&gt;&#xA;    &lt;p&gt;Clemson University | Digital History, PhD&lt;/p&gt;&#xA;    &lt;p&gt;eahorto@g.clemson.edu | www.addisonhorton.net&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;EDUCATION&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Clemson University&lt;/strong&gt;&lt;br&gt;&#xA;Ph.D. in Digital History, second year student&lt;br&gt;&#xA;Field of Study: Gender in the 19th Century U.S. South&lt;br&gt;&#xA;Advisor: Brent Morris&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Clemson University&lt;/strong&gt;&lt;br&gt;&#xA;Bachelor of Arts in History; Political Science minor&lt;br&gt;&#xA;President&amp;rsquo;s List: Fall of 2021, Spring of 2022, and Fall of 2022&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Rhodes College&lt;/strong&gt;&lt;br&gt;&#xA;Transferred to Clemson University after sophomore year&lt;/p&gt;&#xA;&lt;h2 id=&#34;research-experience&#34;&gt;RESEARCH EXPERIENCE&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Research Assistant, Clemson University&lt;/strong&gt; (Summer 2024-Fall 2025)&lt;br&gt;&#xA;Worked under Dr. Brent Morris&amp;rsquo; supervision on a project aimed at illuminating enslaved peoples contained in deeds from Pickens District from 1828-1866. Responsibilities included digitizing the documents on an IXH camera, transcription, and metadata collection.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1314/projects/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/projects/</guid>
+      <description>&lt;h2 id=&#34;digital-history-projects&#34;&gt;Digital History Projects&lt;/h2&gt;&#xA;&lt;h3 id=&#34;project-1-project-name&#34;&gt;Project 1: [Project Name]&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Completed/In Progress&lt;br&gt;&#xA;&lt;strong&gt;Technologies:&lt;/strong&gt; List of technologies used&lt;br&gt;&#xA;&lt;strong&gt;Description:&lt;/strong&gt; Detailed description of the project, its goals, and outcomes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1&lt;/li&gt;&#xA;&lt;li&gt;Feature 2&lt;/li&gt;&#xA;&lt;li&gt;Feature 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;link&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;link&#34;&gt;Live Demo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;link&#34;&gt;Documentation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;project-2-project-name&#34;&gt;Project 2: [Project Name]&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Completed/In Progress&lt;br&gt;&#xA;&lt;strong&gt;Technologies:&lt;/strong&gt; List of technologies used&lt;br&gt;&#xA;&lt;strong&gt;Description:&lt;/strong&gt; Detailed description of the project, its goals, and outcomes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1&lt;/li&gt;&#xA;&lt;li&gt;Feature 2&lt;/li&gt;&#xA;&lt;li&gt;Feature 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>//localhost:1314/research/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/research/</guid>
+      <description>&lt;h2 id=&#34;current-research-interests&#34;&gt;Current Research Interests&lt;/h2&gt;&#xA;&lt;p&gt;My research focuses on gender in the 19th Century American South. I&amp;rsquo;m particularly interested in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Marital strife in North Carolina, Tennessee, and Alabama&lt;/li&gt;&#xA;&lt;li&gt;Gender dynamics and legal frameworks in antebellum Southern states&lt;/li&gt;&#xA;&lt;li&gt;Women&amp;rsquo;s agency within marriage and divorce proceedings in the pre-Civil War South&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;research-projects&#34;&gt;Research Projects&lt;/h2&gt;&#xA;&lt;h3 id=&#34;current-dissertation-research&#34;&gt;Current Dissertation Research&lt;/h3&gt;&#xA;&lt;p&gt;Working on analyzing divorce petition records from North Carolina, Tennessee, and Alabama (1800-1860) to understand patterns of marital strife and women&amp;rsquo;s legal agency in the antebellum South.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

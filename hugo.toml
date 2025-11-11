@@ -1,0 +1,35 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Addison Horton"
+theme = "personal"
+
+[params]
+  author = "Addison Horton"
+  description = "Academic website for historian Addison Horton - Research, publications, and professional experience"
+  logo = "/images/clemson_retro.webp"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

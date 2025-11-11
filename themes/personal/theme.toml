@@ -1,0 +1,12 @@
+name = "Personal"
+license = "MIT"
+licenselink = "https://github.com/EaHorton/personalwebsite/blob/main/LICENSE"
+description = "A clean, responsive Hugo theme for personal websites"
+homepage = "https://github.com/EaHorton/personalwebsite"
+tags = ["personal", "portfolio", "responsive", "clean"]
+features = ["responsive", "navigation", "mobile-friendly"]
+min_version = "0.100.0"
+
+[author]
+  name = "E.A. Horton"
+  homepage = "https://eahorton.github.io"
